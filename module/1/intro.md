@@ -1,7 +1,7 @@
 ---
 layout: module
 title: Table of Content
-permalink: /introduction/
+permalink: /module1/
 ---
 
 ## Module 1
