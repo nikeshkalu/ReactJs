@@ -6,7 +6,7 @@ permalink: /tableOfContent/
 
 1. Module 1
 
-	1.1 [Introduction](/ReactJs/module1)
+	1.1 [Introduction to ReactJs](/ReactJs/module1)
 
 
 <<[home](/ReactJs/)
