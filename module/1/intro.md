@@ -1,6 +1,6 @@
 ---
 layout: module
-permalink: /module1/
+permalink: /module1/content1.1/
 ---
 
 # Module 1
@@ -19,9 +19,14 @@ In traditional web application programming, for even a small change in the webpa
 ### How ReactJS solves this problem?: 
 React only updates what’s necessary(necessary components that is to be rendered not an entire webpage).Moreover, React allows developers to create large web applications with complex UIs from small and isolated pieces of code called “components” which can change data, without reloading the entire webpage making it faster solving the above stated problem.
 
+## ReactJS Environmental SetUp
+ReactJS can be set up in a number of ways, let’s look at a few of them.
+- Using Static HTML file
+- “Create React App” via npm
+
+In this beginner guide to ReactJS, we will be dealing only with the static HTML file for learning the basic concepts.However, For doing the various projects in ReactJs we will go through the “Create React App” via npm.
 
 ## Adding ReactJs to the HTML pages
-
 
 ```
 <!DOCTYPE html>
@@ -40,6 +45,7 @@ React only updates what’s necessary(necessary components that is to be rendere
 </script>
 
 <body>
+<div id="root"></div>
 
 <script type="text/babel">
     //  JSX falls here.
