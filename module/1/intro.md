@@ -28,7 +28,7 @@ In this beginner guide to ReactJS, we will be dealing only with the static HTML 
 
 ## Adding ReactJs to the HTML pages
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <title>Add ReactJs to HTML Pages</title>
@@ -57,6 +57,16 @@ In this beginner guide to ReactJS, we will be dealing only with the static HTML 
 ```
 
 Later, In this documentaion we will learn more on React DOM,Babel Compiler,JSX.
+
+## React Developer Tools
+Please download [React DevTools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) as this extension will help you a lot while working with React.
+
+After you install it, when you open DevTools in chrome, you’ll see a tab for React. Click on it,and you’ll be able to inspect components of paticular website(app created using React JS) as in figure below.However, You can still go to the Elements tab to see the actual DOM output. But,it may not seem like that much of a deal for smaller application.As the app gets more complicated, it will become increasingly necessary to use.
+
+![screenshotForReactExtension]({{ site.baseurl }}/images/ScreenshotExtensionForReact.png)
+
+Press Ctrl+shift+i And Then inside the component there will be list of all component used in the application along with the details of component.
+
 
  
  <<[Back](/ReactJs/tableOfContent)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Next Page](/ReactJs/module1/content1.2)>>
