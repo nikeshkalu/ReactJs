@@ -7,7 +7,8 @@ permalink: /tableOfContent/
 1. Module 1
 
 	1.1 [Introduction to ReactJs](/ReactJs/module1/content1.1)<br>
-	1.2 [ReactJs Environmental Setup](/ReactJs/module1/content1.2)
+	1.2 [ReactJs Environmental Setup](/ReactJs/module1/content1.2)<br>
+	1.3 [JSX](/ReactJs/module1/content1.3)
 
 
 

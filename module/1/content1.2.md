@@ -33,10 +33,10 @@ In this beginner guide to ReactJS, we will be dealing only with the static HTML 
 <div id="root"></div>
 
 <script type="text/babel">
-    //  JSX falls here.
     class App extends React.Component { 
             render( ) { 
                 return (
+                	 //  JSX falls here.
                     <h1>Welcome</h1>
                 ); 
             } 
