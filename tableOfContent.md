@@ -11,5 +11,10 @@ permalink: /tableOfContent/
 	1.3 [JSX](/ReactJs/module1/content1.3)
 
 
+2. Module 2
+
+	2.1 [Components In ReactsJS](/ReactJs/module2/content2.1)<br>	
+
+
 
 <<[home](/ReactJs/)
