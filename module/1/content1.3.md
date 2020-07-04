@@ -3,7 +3,7 @@ layout: module
 permalink: /module1/content1.3/
 ---
 
-## JSX(JavaScript + XML)
+# 1.3 JSX(JavaScript + XML)
 
 JSX stands for JavaScript XML. JSX is not JavaScript nor HTML.
 
