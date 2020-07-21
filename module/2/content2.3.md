@@ -33,10 +33,10 @@ class ChildComponent extends React.Component {
 }
 ```
 
-`State in Components`:<br>
+<b>State in Components:</b><br>
 State is another built-in object in ReactJs, which allows components to create and manage their own data. The behavior of the component at a given moment in time is defined by the state. Components data will be stored in the component’s State. This state can be modified based on user action or other action( onClick,onHover etc).So unlike props, components cannot pass data with state, but they can create and manage it internally.
 
-``When a component state is changed, React will re-render the component to the browser.``
+`When a component state is changed, React will re-render the component to the browser.`
 
 Example:
 
@@ -61,7 +61,7 @@ class Test extends React.Component {
 
 ```
 
-``Update the State Component``<br>
+<b>Update the State Component</b><br>
 
 State are modified using speical method called setState().
 
@@ -78,7 +78,7 @@ this.setState({         // correct
 
 Generally,A change in the state happens based on user-input, triggering an event(onClick,onHover,onChange), and so on. Also, React components (with state) are rendered based on the data in the state. State holds the initial information.
 
-``What happens when state is Updated?``<br>
+<b>What happens when state is Updated?</b><br>
 
 When state gets changed, React re-renders the only the component(not an entire DOM).Thats the main reason why,React is more faster.
 
@@ -87,7 +87,7 @@ In summary, there are 2 important points we need to pay attention to when using 
 - State shouldn’t be modified directly – the setState( ) should be used
 - State affects the performance of your app, and therefore it shouldn’t be used unnecessarily
 
-``Does every Component supports state?``
+<b>Does every Component supports state?</b>
 
 In the early days, state could only be used in class components, not in functional components.
 
