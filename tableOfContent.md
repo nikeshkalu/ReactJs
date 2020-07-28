@@ -15,7 +15,7 @@ permalink: /tableOfContent/
 
 	2.1 [Components In ReactsJS](/ReactJs/module2/content2.1)<br>	
 	2.2 [Types of Components](/ReactJs/module2/content2.2)<br>
-	2.3 [Props and State](/ReactJs/module2/content2.3)
+	2.3 [Props and State](/ReactJs/module2/content2.3)<br>
 	2.4 [Hooks](/ReactJs/module2/content2.4)
 
 
