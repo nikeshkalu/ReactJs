@@ -64,7 +64,7 @@ This method is invoked before re-rendering after new props and/or state are bein
 - componentDidUpdate()
 componentDidUpdate() is invoked immediately after updating occurs. This method is not called for the initial render.In order words,After the new (updated) component gets updated on the DOM, the ‘componentDidUpdate’ method is executed.
 
- ### 3.UnMounting <br>
+### 3. UnMounting <br>
 This is the last phase in component lifecycle.
 The methods invloved are:
 
