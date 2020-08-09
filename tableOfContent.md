@@ -19,5 +19,9 @@ permalink: /tableOfContent/
 	2.4 [Component LifeCycle](/ReactJs/module2/content2.4)<br>
 	2.5 [Hooks](/ReactJs/module2/content2.5)
 
+3. Module 3 
+
+	3.1 [x](/ReactJs/module3/content3.1)	
+
 
 <<[home](/ReactJs/)
